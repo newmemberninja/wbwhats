@@ -1,8 +1,8 @@
 {
-  "name": "first-project",
-  "version": "0.0.1",
+  "name": "whatsapp-simulator",
+  "version": "1.0.0",
   "description": "",
-  "author": "",
+  "author": "Mustafa Gamal <mustafa.gamal.elsayed@gmail.com>",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
